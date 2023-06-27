@@ -1,0 +1,125 @@
+{
+    "1": {
+        "topics": ["grammar", "syntax"],
+        "question": "How do you convert 'sik6 faan6' to past tense, in Hong Kong Cantonese? ",
+        "options": {
+            "a": "sik6 zo2 faan6",
+            "b": "zo2 sik6 faan6",
+            "c": "sik6 faan6 zo2"
+        },
+        "answer": "a"
+    },
+    "2": {
+        "topics": ["syntax"],
+        "question": "Translation this sentence 'Where are you from'?. Which lines are correct?",
+        "options": {
+            "a": "nei5 jau4 bin1 go3 gwok6 ga1 lei4 gaa3?",
+            "b": "nei5 lei4 zi6 bin1 dou6?",
+            "c": "nei5 hai6 bin1 dou6 jan4?",
+            "d": "All other options"
+        },
+        "answer": "d"
+    },
+    "3": {
+        "topics": ["grammar"],
+        "question": "Which of the following is the best measure words for 'chaan1 teng1' (restaurant)? ",
+        "options": {
+            "a": "go3",
+            "b": "gaan1",
+            "c": "bou6"
+        },
+        "answer": "b"
+    },
+    "4": {
+        "topics": ["expressions", "vocabulary","cultural knowledge"],
+        "question": "Which of the following is a more polite way to ask people's name?",
+        "options": {
+            "a": "nei5 giu3 me1 meng2 aa3?",
+            "b": "nei5 hai6 bin1 go3 aa3?",
+            "c": "dim2 ching1 fu1 nei5 aa3?",
+            "d": "nei5 mat1 seoi2 aa3?"
+        },
+        "answer": "c"
+    },
+    "5": {
+        "topics": ["grammar"],
+        "question": "Which sentence should we NOT use measure words, e.g. zek1? ",
+        "options": {
+            "a": "I have a dog - ngo5 jau5 jat1 ___ gau2",
+            "b": "I like dogs- ngo5 zung1 ji3 ____ gau2",
+            "c": "This dog is mine- ni1 ____ gau2 hai5 ngo5 ge3"
+        },
+        "answer": "b"
+    },
+    "6": {
+        "topics": ["syntax","grammar"],
+        "question": "Which sentence is the best? - Last year, I went to Hong Kong for a week with a few friends",
+        "options": {
+            "a": "ngo5 soeng6 nin2 heoi3 zo2 heong1 gong2 tung4 gei2 go3 pang4 jau5 wan2 zo2 jat1 go2 sing1 kei4",
+            "b": "ngo5 soeng6 nin2 tung4 gei2 go3 pang4 jau5 heoi3 zo2 heong1 gong2 wan2 zo2 jat1 go2 sing1 kei4",
+            "c": "ngo5 heoi3 zo2 heong1 gong2 wan2 zo2 jat1 go2 sing1 kei4 soeng6 nin2 tung4 gei2 go3 pang4 jau5"
+        },
+        "answer": "b"
+    },
+    "7": {
+        "topics": ["grammar"],
+        "question": "Why are tones important in Cantonese",
+        "options": {
+            "a": "Because we like to sing",
+            "b": "Because there could be 6 tones for a particular pronunciation, and inaccurate tones can easily cause confusion",
+            "c": "Becuase we like to have fun"
+        },
+        "answer": "b"
+    },
+    "8": {
+        "topics": ["grammar","vocabulary"],
+        "question": "which of the following 'sik' means to know some knowledge or someone?",
+        "options": {
+            "a": "sik1",
+            "b": "sik6",
+            "c": "sit3"
+        },
+        "answer": "a"
+    },
+    "9": {
+        "topics": ["grammar","vocabulary"],
+        "question": "Which of the following ending in Cantonese means an abrupt, silent stop? ",
+        "options": {
+            "a": "words ending -p, e.g. dip6",
+            "b": "works ending -t, e.g. tit3",
+            "c": "words ending -k, e.g. sik1",
+            "d": "All other options"
+        },
+        "answer": "d"
+    },
+    "10": {
+        "topics": ["expressions", "cultural knowledge"],
+        "question": "Which scenario would you use'do1 ze6' instead of 'm4 goi1'? ",
+        "options": {
+            "a": "When someone buys you a drink but you expect to pay him back",
+            "b": "You are shopkeeper and a customer just bought something for 50 cents",
+            "c": "You forgot to bring some cash and present, and your partner helps bring it for you."
+        },
+        "answer": "b"
+    },
+    "11": {
+        "topics": ["expressions", "syntax", "grammar"],
+        "question": "Which of the following sentence would best to put ending particle 'gaa3'? ",
+        "options": {
+            "a": "ji4 ga1 ji5 ging1 sap6 jat1 dim2 ____. (It's already 11 pm.)",
+            "b": "faai3 di1 ____ !(Be quick!)",
+            "c": "nei5 zou6 me1 _____? (What do you do for a living?)"
+        },
+        "answer": "a"
+    },
+    "12": {
+        "topics": ["expressions", "cultural knowledge"],
+        "question": "Which of the following is the least likely approach to ask 'how are you' among close friends in Hong Kong? ",
+        "options": {
+            "a": "nei5 hou2 maa3?",
+            "b": "dim2 aa3?",
+            "c": "wei3, jau2 me1 gau2 aa3"
+        },
+        "answer": "a"
+    }
+}
